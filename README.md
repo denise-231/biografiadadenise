@@ -3,5 +3,5 @@
 <b>sou a denise</b>
 <i>sou casada, tenho duas cachorras<br>
 que se chama mag e pipoca<br>
-tem dois argaponios.</i>
-![](assets/natureza.jpg)
+tem dois argaponios que se chama mia e maia.</i>
+![](imag src="assets/miajpeg)
